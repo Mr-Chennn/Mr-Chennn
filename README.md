@@ -1,8 +1,8 @@
-### Hi there 👋
+
 
 # Hi there! 👋
 
-My name is [Your Name] and I'm a passionate Frontend Developer with a strong focus on the MERN stack. I am proficient in MongoDB, Express, React, Node.js, and JavaScript. I'm always eager to learn and explore new technologies, as I believe that staying curious and open-minded is key to personal and professional growth.
+My name is Peng Chen and I'm a passionate Frontend Developer with a strong focus on the MERN stack. I am proficient in MongoDB, Express, React, Node.js, and JavaScript. I'm always eager to learn and explore new technologies, as I believe that staying curious and open-minded is key to personal and professional growth.
 
 ## 🌟 About Me
 
@@ -47,6 +47,6 @@ An immersive, browser-based game designed to test your problem-solving skills an
 
 ## 📫 Get in touch
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) or send me an email at [your.email@example.com](mailto:your.email@example.com). Feel free to reach out if you'd like to discuss potential collaborations, ask questions, or just chat about technology!
+You can find me on [LinkedIn]() or send me an email at [chenpeng1221@outlook.com](mailto:chenpeng1221@outlook.com). Feel free to reach out if you'd like to discuss potential collaborations, ask questions, or just chat about technology!
 
 Thank you for stopping by my GitHub profile! Don't forget to check out my repositories and feel free to leave a star ⭐ if you find any of my projects interesting or useful! Happy coding! 😄
