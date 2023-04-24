@@ -47,6 +47,6 @@ An immersive, browser-based game designed to test your problem-solving skills an
 
 ## 📫 Get in touch
 
-You can find me on [LinkedIn]() or send me an email at [chenpeng1221@outlook.com](mailto:chenpeng1221@outlook.com). Feel free to reach out if you'd like to discuss potential collaborations, ask questions, or just chat about technology!
+You can find me on [LinkedIn](https://www.linkedin.com/in/peng-chen-472560260/) or send me an email at [chenpeng1221@outlook.com](mailto:chenpeng1221@outlook.com). Feel free to reach out if you'd like to discuss potential collaborations, ask questions, or just chat about technology!
 
 Thank you for stopping by my GitHub profile! Don't forget to check out my repositories and feel free to leave a star ⭐ if you find any of my projects interesting or useful! Happy coding! 😄
